@@ -19,7 +19,7 @@
   "homepage": "https://github.com/drdung1999/Awesome_chat#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^4.13.9"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
